@@ -11,6 +11,10 @@ This project is about a simple application of Convolution Neural Networks to det
 - OpenCV
 - Keras
 
+## **Dataset collection**
+
+The dataset I used is "Hand Gesture Recognition Database" which is available in https://www.kaggle.com/datasets
+
 ## **File Description**
 
 - Gesture.py : This file is the code for import the image dataset, split them into train and test data , preprocessing the images and train the model using CNN. To use the code, change the directory name to your preference.
